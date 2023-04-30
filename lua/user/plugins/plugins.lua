@@ -34,5 +34,9 @@ lvim.plugins = {
                 },
             }
         end,
+    },
+    -- Python-lang
+    {
+        "mfussenegger/nvim-dap-python"
     }
 }

@@ -1,5 +1,5 @@
 return {
-    flavour = "frappe", -- latte, frappe, macchiato, mocha
+    flavour = "mocha", -- latte, frappe, macchiato, mocha
     term_color = true,
     transparent_background = true,
     custom_highlights = function(colors)
